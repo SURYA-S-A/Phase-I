@@ -163,7 +163,7 @@ footer .social {
 }
 
 .card-1 {
-    background-image: url(assest/images/robotics.jpg);
+    background-image: url('../assest/images/robotics.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -180,7 +180,7 @@ footer .social {
 }
 
 .card-2 {
-    background-image: url(assest/images/server.jpg);
+    background-image: url('../assest/images/server.jpg');
     background-size: contain;
     background-repeat: no-repeat;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
